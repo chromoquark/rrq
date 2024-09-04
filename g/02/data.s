@@ -1,0 +1,80 @@
+	Area	Type	Height Restriction	FastPass+	Rider Swap
+Meet Alice in Wonderland at the Mad Tea Party	Fantasyland	Character Experience			
+Meet an Out of this World Friend in Tomorrowland	Tomorrowland	Character Experience			
+Meet Ariel at Her Grotto	Fantasyland	Character Experience			
+Meet Characters from Aladdin in Adventureland	Adventureland	Character Experience			
+Meet Cinderella and Elena at Princess Fairytale Hall	Fantasyland	Character Experience			
+Meet Daring Disney Pals as Circus Stars at Pete's Silly Sideshow	Fantasyland	Character Experience			
+Meet Disney Friends in Town Square	"Main Street, U.S.A."	Character Experience			
+Meet Gaston near His Tavern	Fantasyland	Character Experience			
+Meet Magnifique Disney Friends as Circus Stars at Pete's Silly Sideshow	Fantasyland	Character Experience			
+Meet Merida at Fairytale Garden	Fantasyland	Character Experience			
+Meet Mickey Mouse at Town Square Theater	"Main Street, U.S.A."	Character Experience			
+Meet Peter Pan in Fantasyland	Fantasyland	Character Experience			
+Meet Rapunzel and Tiana at Princess Fairytale Hall	Fantasyland	Character Experience			
+Meet Tigger and Friends near the Many Adventures of Winnie the Pooh	Fantasyland	Character Experience			
+Meet Tinker Bell at Town Square Theater	"Main Street, U.S.A."	Character Experience			
+Meet Winnie the Pooh and Tigger at The Thotful Spot	Fantasyland	Character Experience			
+Haunted Mansion	Liberty Square	Dark Ride	None	Available	None
+Peter Pan's Flight	Fantasyland	Dark Ride	None	Available	None
+The Many Adventures of Winnie the Pooh	Fantasyland	Dark Ride	None	Available	None
+Casey's Corner Pianist	"Main Street, U.S.A."	Entertainment			
+Citizens of Main Street	"Main Street, U.S.A."	Entertainment			
+Disney Festival of Fantasy Parade		Entertainment			
+Flag Retreat	"Main Street, U.S.A."	Entertainment			
+Happily Ever After		Entertainment			
+Hoedown Happening	Frontierland	Entertainment			
+Let the Magic Begin	"Main Street, U.S.A."	Entertainment			
+Main Street Philharmonic at Main Street, U.S.A.	"Main Street, U.S.A."	Entertainment			
+Main Street Philharmonic at Main Street, U.S.A.	"Main Street, U.S.A."	Entertainment			
+Main Street Philharmonic at Storybook Circus	"Main Street, U.S.A."	Entertainment			
+Main Street Trolley Show	"Main Street, U.S.A."	Entertainment			
+Mickey's Royal Friendship Faire	"Main Street, U.S.A."	Entertainment			
+Move It! Shake It! Dance & Play It! Street Party	"Main Street, U.S.A."	Entertainment			
+Move It! Shake It! MousekeDance It! Street Party	"Main Street, U.S.A."	Entertainment			
+Once Upon A Time		Entertainment			
+The Dapper Dans		Entertainment			
+The Muppets Present...Great Moments in American History	Liberty Square	Entertainment			
+The Royal Majesty Makers	Fantasyland	Entertainment			
+Cinderella Castle	Fantasyland	Exhibit	None	None	None
+Swiss Family Treehouse	Adventureland	Exhibit	None	None	None
+it's a small world	Fantasyland	Gentle Ride	None	Available	None
+Jungle Cruise	Adventureland	Gentle Ride	None	Available	None
+Liberty Square Riverboat	Liberty Square	Gentle Ride	None	None	None
+Pirates of the Caribbean	Adventureland	Gentle Ride	None	Available	None
+Prince Charming Regal Carrousel	Fantasyland	Gentle Ride	None	None	None
+Tomorrowland Speedway	Tomorrowland	Gentle Ride	32 in (81 cm)	Available	Available
+Tomorrowland Transit Authority PeopleMover	Tomorrowland	Gentle Ride	None	None	None
+A Pirate's Adventure - Treasures of the Seven Seas	Adventureland	Interactive Attraction	None	None	None
+Buzz Lightyear's Space Ranger Spin	Tomorrowland	Interactive Attraction	None	Available	None
+Casey Jr. Splash 'N' Soak Station	Fantasyland	Interactive Attraction	None	None	None
+Enchanted Tales with Belle	Fantasyland	Interactive Attraction	None	Available	None
+Frontierland Shootin' Arcade	Frontierland	Interactive Attraction	None	None	None
+Sorcerers of the Magic Kingdom	"Main Street, U.S.A."	Interactive Attraction	None	None	None
+Tom Sawyer Island	Frontierland	Interactive Attraction	None	None	None
+Country Bear Jamboree	Frontierland	Show	None	None	None
+Mickey's PhilharMagic	Fantasyland	Show	None	Available	None
+Monsters, Inc. Laugh Floor	Tomorrowland	Show	None	Available	None
+Monsters, Inc. Laugh Floor	Tomorrowland	Show	None	Available	None
+Stitch's Great Escape! - Temporarily Closed	Tomorrowland	Show	40 in (102 cm)	None	None
+Stitch's Great Escape!	Tomorrowland	Show	40 in (102 cm)	None	None
+The Hall of Presidents	Liberty Square	Show	None	None	None
+Under the Sea - Journey of The Little Mermaid	Fantasyland	Show	None	Available	None
+Under the Sea ~ Journey of The Little Mermaid	Fantasyland	Show	None	Available	None
+Walt Disney's Carousel of Progress	Tomorrowland	Show	None	None	None
+Walt Disney's Enchanted Tiki Room	Adventureland	Show	None	None	None
+Astro Orbiter	Tomorrowland	Spinner	None	None	None
+Dumbo the Flying Elephant	Fantasyland	Spinner	None	Available	None
+Mad Tea Party	Fantasyland	Spinner	None	Available	None
+The Magic Carpets of Aladdin	Adventureland	Spinner	None	Available	None
+Big Thunder Mountain Railroad	Frontierland	Thrill Ride	40 in (102 cm)	Available	Available
+Seven Dwarfs Mine Train	Fantasyland	Thrill Ride	38 in (97 cm)	Available	None
+Space Mountain	Tomorrowland	Thrill Ride	44 in (112 cm)	Available	Available
+Splash Mountain	Frontierland	Thrill Ride	40 in (102 cm)	Available	Available
+The Barnstormer	Fantasyland	Thrill Ride	35 in (89 cm)	Available	Available
+Horses - Disney Animals	"Main Street, U.S.A."	Transportation	None	None	None
+Main Street Vehicles	"Main Street, U.S.A."	Transportation	None	None	None
+Walt Disney World Railroad - Main Street, U.S.A.	Fantasyland	Transportation	None	None	None
+Walt Disney World Railroad - Fantasyland	Fantasyland	Transportation	None	None	None
+Walt Disney World Railroad - Frontierland	Frontierland	Transportation	None	None	None
+Walt Disney World Railroad - Main Street, U.S.A.	"Main Street, U.S.A."	Transportation	None	None	None
