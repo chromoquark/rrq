@@ -1,4 +1,4 @@
-	Area	Type	Height Restriction	FastPass+	Rider Swap
+	Area	Type	Height Restriction	LightningLane	Rider Swap
 2019 Epcot International Flower & Garden Festival - Topiaries, Gardens and Exhibits					
 Advanced Training Lab	Future World	Interactive Attraction	None	None	None
 American Heritage Gallery	World Showcase	Exhibit	None	None	None

@@ -1,4 +1,4 @@
-	Area	Type	Height Restriction	FastPass	Rider Swap
+	Area	Type	Height Restriction	LightningLane	Rider Swap
 ""Believe�In Holiday Magic"" Fireworks Spectacular		Entertainment			
 ""it's a small world"" Holiday	Fantasyland	Gentle Ride	None	Available	None
 ""Remember�Dreams Come True"" Fireworks Spectacular		Entertainment			

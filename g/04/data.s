@@ -1,4 +1,4 @@
-	Area	Type	Height Restriction	FastPass+	Rider Swap
+	Area	Type	Height Restriction	LightningLane	Rider Swap
 Alien Swirling Saucers - New!	Toy Story Land	Spinner	32 in (81 cm)	Available	Available
 Alien Swirling Saucers - Now Open!	Toy Story Land	Spinner	32 in (81 cm)	Available	Available
 Alien Swirling Saucers	Toy Story Land	Spinner	32 in (81 cm)	Available	Available

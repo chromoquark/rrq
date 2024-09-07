@@ -1,4 +1,4 @@
-	Area	Type	Height Restriction	FastPass+	Rider Swap
+	Area	Type	Height Restriction	LightningLane	Rider Swap
 Adventures with Kevin on Discovery Island	Discovery Island	Character Experience			
 Affection Section	Rafiki's Planet Watch	Interactive Attraction	None	None	None
 African Birds - Disney Animals	Africa	Exhibit	None	None	None

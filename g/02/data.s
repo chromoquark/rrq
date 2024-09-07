@@ -1,4 +1,4 @@
-	Area	Type	Height Restriction	FastPass+	Rider Swap
+	Area	Type	Height Restriction	LightningLane	Rider Swap
 Meet Alice in Wonderland at the Mad Tea Party	Fantasyland	Character Experience			
 Meet an Out of this World Friend in Tomorrowland	Tomorrowland	Character Experience			
 Meet Ariel at Her Grotto	Fantasyland	Character Experience			

@@ -1,4 +1,4 @@
-	Area	Type	Height Restriction	FastPass	Rider Swap
+	Area	Type	Height Restriction	LightningLane	Rider Swap
 Animation Academy	Hollywood Land	Interactive Attraction	None	None	None
 Anna & Elsa's Royal Welcome	Hollywood Land	Character Experience			
 Avengers Training Initiative	Hollywood Land	Show			
