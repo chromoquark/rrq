@@ -16,8 +16,6 @@ Finding Nemo Submarine Voyage
 Finding Nemo Submarine Voyage
 Haunted Mansion Holiday
 Haunted Mansion Holiday
-Indiana Jones Adventure
-Indiana Jones Adventure
 Jungle Cruise
 Jungle Cruise
 King Arthur Carrousel
