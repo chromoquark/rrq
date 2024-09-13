@@ -10,6 +10,8 @@ Buzz Lightyear Astro Blasters
 Buzz Lightyear Astro Blasters
 Casey Jr. Circus Train
 Casey Jr. Circus Train
+Disneyland Monorail
+Disneyland Monorail
 Dumbo the Flying Elephant
 Dumbo the Flying Elephant
 Finding Nemo Submarine Voyage

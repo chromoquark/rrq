@@ -12,6 +12,8 @@ Haunted Mansion
 Haunted Mansion
 Mad Tea Party
 Mad Tea Party
+Monsters Inc. Laugh Floor
+Monsters Inc. Laugh Floor
 Peter Pan's Flight
 Peter Pan's Flight
 Pirates of the Caribbean
@@ -22,6 +24,8 @@ Seven Dwarfs Mine Train
 Seven Dwarfs Mine Train
 Space Mountain
 Space Mountain
+Swiss Family Treehouse
+Swiss Family Treehouse
 The Barnstormer
 The Barnstormer
 The Magic Carpets of Aladdin
