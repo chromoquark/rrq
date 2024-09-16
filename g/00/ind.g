@@ -20,8 +20,6 @@ Haunted Mansion Holiday
 Haunted Mansion Holiday
 Indiana Jones Adventure
 Indiana Jones Adventure
-Jungle Cruise
-Jungle Cruise
 King Arthur Carrousel
 King Arthur Carrousel
 Mad Tea Party
@@ -54,5 +52,3 @@ Storybook Land Canal Boats
 Storybook Land Canal Boats
 The Many Adventures of Winnie the Pooh
 The Many Adventures of Winnie the Pooh
-it's a small world
-it's a small world
