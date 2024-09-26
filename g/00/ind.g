@@ -10,8 +10,6 @@ Buzz Lightyear Astro Blasters
 Buzz Lightyear Astro Blasters
 Casey Jr. Circus Train
 Casey Jr. Circus Train
-Chip 'n' Dale's GADGETcoaster
-Chip 'n' Dale's GADGETcoaster
 Disneyland Monorail
 Disneyland Monorail
 Dumbo the Flying Elephant
