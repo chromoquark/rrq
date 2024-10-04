@@ -1,5 +1,3 @@
-Adventureland Treehouse inspired by Walt Disney's Swiss Family Robinson
-Adventureland Treehouse inspired by Walt Disney's Swiss Family Robinson
 Alice in Wonderland
 Alice in Wonderland
 Astro Orbitor
@@ -22,8 +20,6 @@ Finding Nemo Submarine Voyage
 Finding Nemo Submarine Voyage
 Haunted Mansion Holiday
 Haunted Mansion Holiday
-Indiana Jones Adventure
-Indiana Jones Adventure
 King Arthur Carrousel
 King Arthur Carrousel
 Mad Tea Party
@@ -32,8 +28,6 @@ Matterhorn Bobsleds
 Matterhorn Bobsleds
 Mickey & Minnie's Runaway Railway
 Mickey & Minnie's Runaway Railway
-Millennium Falcon- Smugglers Run
-Millennium Falcon- Smugglers Run
 Mr. Toad's Wild Ride
 Mr. Toad's Wild Ride
 Peter Pan's Flight
@@ -50,8 +44,6 @@ Space Mountain
 Space Mountain
 Star Tours - The Adventures Continue
 Star Tours - The Adventures Continue
-Star Wars- Rise of the Resistance
-Star Wars- Rise of the Resistance
 Storybook Land Canal Boats
 Storybook Land Canal Boats
 The Many Adventures of Winnie the Pooh
