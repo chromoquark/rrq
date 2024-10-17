@@ -2,6 +2,8 @@ Frozen Ever After
 Frozen Ever After
 Gran Fiesta Tour Starring The Three Caballeros
 Gran Fiesta Tour Starring The Three Caballeros
+Guardians of the Galaxy- Cosmic Rewind
+Guardians of the Galaxy- Cosmic Rewind
 Journey Into Imagination With Figment
 Journey Into Imagination With Figment
 Living with the Land
