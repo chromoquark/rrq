@@ -12,6 +12,8 @@ Enchanted Tales with Belle
 Enchanted Tales with Belle
 Haunted Mansion
 Haunted Mansion
+Jingle Cruise
+Jingle Cruise
 Mad Tea Party
 Mad Tea Party
 Peter Pan's Flight
