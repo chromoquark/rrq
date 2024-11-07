@@ -38,6 +38,8 @@ Tiana's Bayou Adventure
 Tiana's Bayou Adventure
 Tomorrowland Speedway
 Tomorrowland Speedway
+Tomorrowland Transit Authority PeopleMover
+Tomorrowland Transit Authority PeopleMover
 Under the Sea - Journey of The Little Mermaid
 Under the Sea - Journey of The Little Mermaid
 Walt Disney World Railroad - Fantasyland
