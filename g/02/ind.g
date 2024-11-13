@@ -16,8 +16,6 @@ Jingle Cruise
 Jingle Cruise
 Mad Tea Party
 Mad Tea Party
-Monsters Inc. Laugh Floor
-Monsters Inc. Laugh Floor
 Peter Pan's Flight
 Peter Pan's Flight
 Pirates of the Caribbean
