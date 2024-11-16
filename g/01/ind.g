@@ -14,10 +14,10 @@ Jessie's Critter Carousel
 Jessie's Critter Carousel
 Jumpin' Jellyfish
 Jumpin' Jellyfish
-Luigi's Honkin' Haul-O-Ween
-Luigi's Honkin' Haul-O-Ween
-Mater's Graveyard JamBOOree
-Mater's Graveyard JamBOOree
+Luigi's Joy to the Whirl
+Luigi's Joy to the Whirl
+Mater's Jingle Jamboree
+Mater's Jingle Jamboree
 Monsters, Inc. Mike & Sulley to the Rescue!
 Monsters, Inc. Mike & Sulley to the Rescue!
 Pixar Pal-A-Round - Swinging
