@@ -4,8 +4,6 @@ Gran Fiesta Tour Starring The Three Caballeros
 Gran Fiesta Tour Starring The Three Caballeros
 Journey Into Imagination With Figment
 Journey Into Imagination With Figment
-Living with the Land
-Living with the Land
 Remy's Ratatouille Adventure
 Remy's Ratatouille Adventure
 Soarin' Around the World
