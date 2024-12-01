@@ -4,8 +4,6 @@ Goofy's Sky School
 Goofy's Sky School
 Grizzly River Run
 Grizzly River Run
-Guardians of the Galaxy - Monsters After Dark
-Guardians of the Galaxy - Monsters After Dark
 Incredicoaster
 Incredicoaster
 Inside Out Emotional Whirlwind
