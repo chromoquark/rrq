@@ -16,8 +16,6 @@ Luigi's Joy to the Whirl
 Luigi's Joy to the Whirl
 Mater's Jingle Jamboree
 Mater's Jingle Jamboree
-Mickey's PhilharMagic
-Mickey's PhilharMagic
 Monsters, Inc. Mike & Sulley to the Rescue!
 Monsters, Inc. Mike & Sulley to the Rescue!
 Pixar Pal-A-Round - Swinging
@@ -34,5 +32,3 @@ The Little Mermaid - Ariel's Undersea Adventure
 The Little Mermaid - Ariel's Undersea Adventure
 Toy Story Midway Mania!
 Toy Story Midway Mania!
-Turtle Talk with Crush
-Turtle Talk with Crush
