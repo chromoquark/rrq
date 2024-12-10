@@ -4,6 +4,8 @@ DINOSAUR
 DINOSAUR
 Expedition Everest - Legend of the Forbidden Mountain
 Expedition Everest - Legend of the Forbidden Mountain
+It's Tough to be a Bug!
+It's Tough to be a Bug!
 Kali River Rapids
 Kali River Rapids
 Kilimanjaro Safaris
