@@ -4,8 +4,6 @@ Astro Orbitor
 Astro Orbitor
 Autopia
 Autopia
-Big Thunder Mountain Railroad
-Big Thunder Mountain Railroad
 Buzz Lightyear Astro Blasters
 Buzz Lightyear Astro Blasters
 Casey Jr. Circus Train
