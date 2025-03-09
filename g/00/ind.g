@@ -12,6 +12,10 @@ Casey Jr. Circus Train
 Casey Jr. Circus Train
 Chip 'n' Dale's GADGETcoaster
 Chip 'n' Dale's GADGETcoaster
+Disneyland Monorail
+Disneyland Monorail
+Disneyland Railroad
+Disneyland Railroad
 Dumbo the Flying Elephant
 Dumbo the Flying Elephant
 Finding Nemo Submarine Voyage
