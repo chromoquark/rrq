@@ -48,5 +48,7 @@ Space Mountain
 Space Mountain
 Star Tours - The Adventures Continue
 Star Tours - The Adventures Continue
+Star Wars- Rise of the Resistance
+Star Wars- Rise of the Resistance
 The Many Adventures of Winnie the Pooh
 The Many Adventures of Winnie the Pooh
