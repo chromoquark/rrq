@@ -18,8 +18,6 @@ Finding Nemo Submarine Voyage
 Finding Nemo Submarine Voyage
 Haunted Mansion Holiday
 Haunted Mansion Holiday
-Indiana Jones Adventure
-Indiana Jones Adventure
 Jungle Cruise
 Jungle Cruise
 King Arthur Carrousel
@@ -30,8 +28,6 @@ Matterhorn Bobsleds
 Matterhorn Bobsleds
 Mickey & Minnie's Runaway Railway
 Mickey & Minnie's Runaway Railway
-Millennium Falcon- Smugglers Run
-Millennium Falcon- Smugglers Run
 Mr. Toad's Wild Ride
 Mr. Toad's Wild Ride
 Peter Pan's Flight
@@ -48,7 +44,5 @@ Space Mountain
 Space Mountain
 Star Tours - The Adventures Continue
 Star Tours - The Adventures Continue
-Star Wars- Rise of the Resistance
-Star Wars- Rise of the Resistance
 The Many Adventures of Winnie the Pooh
 The Many Adventures of Winnie the Pooh
