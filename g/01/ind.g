@@ -34,3 +34,5 @@ The Little Mermaid - Ariel's Undersea Adventure
 The Little Mermaid - Ariel's Undersea Adventure
 Toy Story Midway Mania!
 Toy Story Midway Mania!
+WEB SLINGERS- A Spider-Man Adventure
+WEB SLINGERS- A Spider-Man Adventure
