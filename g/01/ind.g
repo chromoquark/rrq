@@ -36,5 +36,3 @@ The Little Mermaid ~ Ariel's Undersea Adventure
 The Little Mermaid ~ Ariel's Undersea Adventure
 Toy Story Midway Mania!
 Toy Story Midway Mania!
-Villains Grove at Oogie Boogie Bash
-Villains Grove at Oogie Boogie Bash
