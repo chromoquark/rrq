@@ -8,8 +8,8 @@ Enchanted Tales with Belle
 Enchanted Tales with Belle
 Haunted Mansion
 Haunted Mansion
-Jingle Cruise
-Jingle Cruise
+Jungle Cruise
+Jungle Cruise
 Mad Tea Party
 Mad Tea Party
 Main Street Vehicles
