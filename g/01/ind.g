@@ -2,20 +2,16 @@ Golden Zephyr
 Golden Zephyr
 Goofy's Sky School
 Goofy's Sky School
-Grizzly River Run
-Grizzly River Run
-Incredicoaster
-Incredicoaster
 Inside Out Emotional Whirlwind
 Inside Out Emotional Whirlwind
 Jessie's Critter Carousel
 Jessie's Critter Carousel
 Jumpin' Jellyfish
 Jumpin' Jellyfish
-Luigi's Joy to the Whirl
-Luigi's Joy to the Whirl
-Mater's Jingle Jamboree
-Mater's Jingle Jamboree
+Luigi's Rollickin' Roadsters
+Luigi's Rollickin' Roadsters
+Mater's Junkyard Jamboree
+Mater's Junkyard Jamboree
 Monsters, Inc. Mike & Sulley to the Rescue!
 Monsters, Inc. Mike & Sulley to the Rescue!
 Pixar Pal-A-Round - Non-Swinging
