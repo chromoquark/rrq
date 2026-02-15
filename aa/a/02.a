@@ -1,22 +1,23 @@
-"it's a small world"	Operating	2	1	5
-Astro Orbiter	Operating	5	10	5
+"it's a small world"	Operating	1	1	5
+Astro Orbiter	Operating	4	10	5
 Country Bear Musical Jamboree	Closed	--	3	--
-Dumbo the Flying Elephant	Operating	3	10	5
+Dumbo the Flying Elephant	Operating	2	2	5
 Enchanted Tales with Belle	Closed	--	30	--
-Haunted Mansion	Operating	8	36	13
-Jungle Cruise	Operating	12	53	20
-Mad Tea Party	Operating	3	18	10
-Peter Pan's Flight	Operating	41	85	50
-Pirates of the Caribbean	Operating	5	31	5
+Haunted Mansion	Operating	10	25	13
+Jungle Cruise	Operating	28	65	30
+Mad Tea Party	Operating	5	19	10
+Peter Pan's Flight	Operating	44	85	40
+Pirates of the Caribbean	Operating	4	9	5
 Prince Charming Regal Carrousel	Operating	2	8	5
-Seven Dwarfs Mine Train	Operating	62	122	65
-Space Mountain	Operating	20	43	35
-The Barnstormer	Operating	4	21	5
-The Magic Carpets of Aladdin	Operating	1	18	5
-The Many Adventures of Winnie the Pooh	Operating	18	39	40
-Tomorrowland Speedway	Operating	11	19	15
-Tomorrowland Transit Authority PeopleMover	Operating	1	10	5
-TRON Lightcycle / Run	Operating	264666524	7496339	70
+Seven Dwarfs Mine Train	Operating	64	122	60
+Space Mountain	Operating	29	44	40
+The Barnstormer	Operating	5	27	10
+The Magic Carpets of Aladdin	Operating	2	3	5
+The Many Adventures of Winnie the Pooh	Operating	32	39	30
+Tiana's Bayou Adventure	Down	1	1	0
+Tomorrowland Speedway	Operating	14	20	30
+Tomorrowland Transit Authority PeopleMover	Operating	2	10	5
+TRON Lightcycle / Run	Operating	116	2087	70
 Under the Sea - Journey of The Little Mermaid	Operating	1	1	5
 Walt Disney World Railroad - Fantasyland	Closed	--	1	--
 Walt Disney World Railroad - Main Street, U.S.A.	Closed	--	1	--
