@@ -1,24 +1,25 @@
-"it's a small world"	Operating	2	2	5
-Astro Orbiter	Operating	8	10	10
-Big Thunder Mountain Railroad	Operating	25	33	25
-Buzz Lightyear's Space Ranger Spin	Operating	17	24	25
+"it's a small world"	Operating	2	1	5
+Astro Orbiter	Operating	6	10	10
+Big Thunder Mountain Railroad	Operating	26	34	30
+Buzz Lightyear's Space Ranger Spin	Operating	21	28	25
 Country Bear Musical Jamboree	Operating	6	6	10
 Dumbo the Flying Elephant	Operating	1	2	5
-Enchanted Tales with Belle	Closed	19	23	0
-Haunted Mansion	Operating	13	16	13
-Jungle Cruise	Down	30	40	0
+Enchanted Tales with Belle	Closed	20	23	0
+Haunted Mansion	Operating	10	10	13
+Jungle Cruise	Operating	34	40	15
 Mad Tea Party	Operating	2	3	5
 Monsters, Inc. Laugh Floor	Operating	8	10	10
-Peter Pan's Flight	Operating	43	57	40
-Pirates of the Caribbean	Operating	8	9	5
-Prince Charming Regal Carrousel	Operating	7	11	5
-Seven Dwarfs Mine Train	Down	61	63	0
-Space Mountain	Operating	34	45	30
+Peter Pan's Flight	Operating	39	47	30
+Pirates of the Caribbean	Operating	6	9	5
+Prince Charming Regal Carrousel	Operating	5	9	10
+Seven Dwarfs Mine Train	Operating	63	63	40
+Space Mountain	Operating	32	38	30
 The Barnstormer	Operating	1	2	5
-The Magic Carpets of Aladdin	Operating	3	3	5
-The Many Adventures of Winnie the Pooh	Operating	22	35	30
+The Magic Carpets of Aladdin	Operating	3	3	10
+The Many Adventures of Winnie the Pooh	Operating	26	35	30
 Tiana's Bayou Adventure	Operating	1	1	35
-Tomorrowland Speedway	Operating	12	16	5
-Tomorrowland Transit Authority PeopleMover	Operating	3	9	5
-TRON Lightcycle / Run	Operating	692	4518	70
+Tomorrowland Speedway	Operating	8	12	5
+Tomorrowland Transit Authority PeopleMover	Operating	2	6	5
+TRON Lightcycle / Run	Operating	420	4592	65
 Under the Sea - Journey of The Little Mermaid	Operating	1	1	5
+Walt Disney World Railroad - Fantasyland	Operating	1	1	20
