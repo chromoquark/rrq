@@ -1,24 +1,24 @@
-"it's a small world"	Operating	11	1431375	15
-Astro Orbiter	Operating	6	9	5
-Big Thunder Mountain Railroad	Operating	21	19	25
-Buzz Lightyear's Space Ranger Spin	Operating	28	22	30
-Country Bear Musical Jamboree	Down	6	6	0
+"it's a small world"	Operating	18	-74270	20
+Astro Orbiter	Operating	10	10	30
+Big Thunder Mountain Railroad	Operating	24	19	40
+Buzz Lightyear's Space Ranger Spin	Operating	31	22	40
+Country Bear Musical Jamboree	Operating	6	6	10
 Dumbo the Flying Elephant	Operating	2	2	5
-Enchanted Tales with Belle	Operating	15	14	10
-Haunted Mansion	Operating	21	16	25
-Jungle Cruise	Operating	28	20	40
+Enchanted Tales with Belle	Down	12	14	0
+Haunted Mansion	Operating	23	16	35
+Jungle Cruise	Operating	33	21	50
 Mad Tea Party	Operating	5	4	10
 Monsters, Inc. Laugh Floor	Operating	7	7	10
-Peter Pan's Flight	Operating	37	28	50
-Pirates of the Caribbean	Operating	13	9	20
-Prince Charming Regal Carrousel	Operating	4	4	10
-Seven Dwarfs Mine Train	Operating	41	32	55
+Peter Pan's Flight	Operating	41	28	60
+Pirates of the Caribbean	Operating	18	10	25
+Prince Charming Regal Carrousel	Operating	5	5	5
+Seven Dwarfs Mine Train	Operating	42	32	50
 Space Mountain	Down	37	31	0
-The Barnstormer	Operating	7	5	10
-The Magic Carpets of Aladdin	Operating	7	4	15
-The Many Adventures of Winnie the Pooh	Operating	24	19	25
-Tiana's Bayou Adventure	Operating	20	2	50
-Tomorrowland Speedway	Operating	12	12	15
+The Barnstormer	Operating	12	5	20
+The Magic Carpets of Aladdin	Operating	8	4	15
+The Many Adventures of Winnie the Pooh	Operating	25	19	30
+Tiana's Bayou Adventure	Operating	25	2	50
+Tomorrowland Speedway	Operating	16	12	25
 Tomorrowland Transit Authority PeopleMover	Operating	5	6	10
-TRON Lightcycle / Run	Operating	1	2197	65
-Under the Sea - Journey of The Little Mermaid	Operating	10	3	15
+TRON Lightcycle / Run	Down	1	2197	0
+Under the Sea - Journey of The Little Mermaid	Operating	7	4	10
