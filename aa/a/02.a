@@ -1,24 +1,24 @@
-"it's a small world"	Operating	21	23	25
-Astro Orbiter	Operating	12	13	15
+"it's a small world"	Operating	24	23	25
+Astro Orbiter	Operating	11	13	15
 Big Thunder Mountain Railroad	Down	22	18	0
-Buzz Lightyear's Space Ranger Spin	Operating	37	25	55
+Buzz Lightyear's Space Ranger Spin	Operating	42	24	55
 Country Bear Musical Jamboree	Operating	6	6	10
-Dumbo the Flying Elephant	Operating	2	5	5
+Dumbo the Flying Elephant	Operating	3	5	10
 Enchanted Tales with Belle	Operating	10	12	10
-Haunted Mansion	Operating	26	16	30
+Haunted Mansion	Operating	23	15	30
 Jungle Cruise	Operating	34	28	45
-Mad Tea Party	Operating	6	4	10
+Mad Tea Party	Operating	7	4	15
 Monsters, Inc. Laugh Floor	Operating	8	7	10
-Peter Pan's Flight	Operating	39	33	45
+Peter Pan's Flight	Operating	41	33	60
 Pirates of the Caribbean	Operating	17	9	25
-Prince Charming Regal Carrousel	Operating	7	5	10
-Seven Dwarfs Mine Train	Operating	47	36	50
-Space Mountain	Operating	41	32	55
-The Barnstormer	Down	14	8	0
-The Magic Carpets of Aladdin	Operating	6	6	15
-The Many Adventures of Winnie the Pooh	Operating	28	21	40
-Tiana's Bayou Adventure	Operating	36	10	75
-Tomorrowland Speedway	Operating	13	11	20
+Prince Charming Regal Carrousel	Operating	6	5	10
+Seven Dwarfs Mine Train	Operating	47	36	55
+Space Mountain	Operating	45	33	60
+The Barnstormer	Operating	14	8	15
+The Magic Carpets of Aladdin	Operating	7	6	10
+The Many Adventures of Winnie the Pooh	Operating	29	20	35
+Tiana's Bayou Adventure	Operating	45	5	50
+Tomorrowland Speedway	Operating	14	10	25
 Tomorrowland Transit Authority PeopleMover	Down	15	11	0
-TRON Lightcycle / Run	Operating	43	30	70
-Under the Sea - Journey of The Little Mermaid	Operating	17	14	10
+TRON Lightcycle / Run	Operating	44	32	70
+Under the Sea - Journey of The Little Mermaid	Operating	14	11	35
