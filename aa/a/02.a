@@ -1,26 +1,26 @@
-"it's a small world"	Closed	--	2	--
-Astro Orbiter	Closed	--	21	--
-Big Thunder Mountain Railroad	Closed	--	28	--
-Buzz Lightyear's Space Ranger Spin	Closed	--	22	--
-Country Bear Musical Jamboree	Closed	--	1	--
-Dumbo the Flying Elephant	Closed	--	8	--
-Enchanted Tales with Belle	Closed	--	22	--
-Haunted Mansion	Closed	--	25	--
-Jungle Cruise	Closed	--	37	--
-Mad Tea Party	Closed	--	5	--
-Monsters, Inc. Laugh Floor	Closed	--	12	--
-Peter Pan's Flight	Closed	--	48	--
-Pirates of the Caribbean	Closed	--	22	--
-Prince Charming Regal Carrousel	Closed	--	5	--
-Seven Dwarfs Mine Train	Closed	--	62	--
-Space Mountain	Closed	--	37	--
-The Barnstormer	Closed	--	8	--
-The Magic Carpets of Aladdin	Closed	--	11	--
-The Many Adventures of Winnie the Pooh	Closed	--	22	--
-Tiana's Bayou Adventure	Closed	--	1	--
-Tomorrowland Speedway	Closed	--	12	--
-Tomorrowland Transit Authority PeopleMover	Closed	--	2	--
-TRON Lightcycle / Run	Closed	--	59	--
-Under the Sea - Journey of The Little Mermaid	Closed	--	1	--
-Walt Disney World Railroad - Fantasyland	Closed	--	1	--
-Walt Disney World Railroad - Main Street, U.S.A.	Closed	--	1	--
+"it's a small world"	Operating	2	1	5
+Astro Orbiter	Operating	5	10	5
+Big Thunder Mountain Railroad	Closed	5	28	0
+Buzz Lightyear's Space Ranger Spin	Operating	6	35	5
+Country Bear Musical Jamboree	Closed	1	1	0
+Dumbo the Flying Elephant	Operating	3	10	5
+Enchanted Tales with Belle	Closed	10	22	0
+Haunted Mansion	Closed	7	25	0
+Jungle Cruise	Closed	2	37	0
+Mad Tea Party	Operating	1	4	5
+Monsters, Inc. Laugh Floor	Closed	5	12	0
+Peter Pan's Flight	Operating	11	48	15
+Pirates of the Caribbean	Closed	2	22	0
+Prince Charming Regal Carrousel	Operating	2	8	5
+Seven Dwarfs Mine Train	Operating	37	69	30
+Space Mountain	Operating	19	70	20
+The Barnstormer	Operating	1	8	5
+The Magic Carpets of Aladdin	Closed	1	11	0
+The Many Adventures of Winnie the Pooh	Operating	12	31	10
+Tiana's Bayou Adventure	Closed	1	1	0
+Tomorrowland Speedway	Operating	3	12	5
+Tomorrowland Transit Authority PeopleMover	Operating	1	10	5
+TRON Lightcycle / Run	Closed	400	59	0
+Under the Sea - Journey of The Little Mermaid	Operating	1	1	5
+Walt Disney World Railroad - Fantasyland	Closed	1	1	0
+Walt Disney World Railroad - Main Street, U.S.A.	Closed	1	1	0
