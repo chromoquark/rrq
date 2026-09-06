@@ -1,26 +1,26 @@
-"it's a small world"	Operating	10	-35	15
-Astro Orbiter	Operating	7	9	15
-Big Thunder Mountain Railroad	Operating	39	33	45
-Buzz Lightyear's Space Ranger Spin	Operating	35	32	45
+"it's a small world"	Operating	12	26	15
+Astro Orbiter	Down	8	9	0
+Big Thunder Mountain Railroad	Down	39	33	0
+Buzz Lightyear's Space Ranger Spin	Operating	36	32	35
 Country Bear Musical Jamboree	Operating	6	6	10
-Dumbo the Flying Elephant	Operating	3	8	15
-Enchanted Tales with Belle	Operating	12	13	20
-Haunted Mansion	Operating	24	18	35
-Jungle Cruise	Operating	34	31	40
-Mad Tea Party	Operating	6	6	10
+Dumbo the Flying Elephant	Down	5	8	0
+Enchanted Tales with Belle	Operating	13	14	20
+Haunted Mansion	Operating	25	18	30
+Jungle Cruise	Down	33	31	0
+Mad Tea Party	Operating	7	6	15
 Monsters, Inc. Laugh Floor	Operating	8	7	10
-Peter Pan's Flight	Operating	42	37	50
+Peter Pan's Flight	Operating	43	37	55
 Pirates of the Caribbean	Operating	22	15	30
 Prince Charming Regal Carrousel	Operating	1	2	5
-Seven Dwarfs Mine Train	Operating	45	49	45
-Space Mountain	Operating	43	34	35
-The Barnstormer	Operating	11	10	25
-The Magic Carpets of Aladdin	Operating	4	6	15
-The Many Adventures of Winnie the Pooh	Operating	32	25	35
-Tiana's Bayou Adventure	Operating	31	12	50
-Tomorrowland Speedway	Operating	14	8	30
-Tomorrowland Transit Authority PeopleMover	Operating	9	6	20
-TRON Lightcycle / Run	Operating	65	63	70
-Under the Sea - Journey of The Little Mermaid	Operating	14	13	30
-Walt Disney World Railroad - Fantasyland	Operating	15	15	20
-Walt Disney World Railroad - Main Street, U.S.A.	Operating	13	14	20
+Seven Dwarfs Mine Train	Down	46	49	0
+Space Mountain	Operating	41	34	45
+The Barnstormer	Down	13	11	0
+The Magic Carpets of Aladdin	Down	4	6	0
+The Many Adventures of Winnie the Pooh	Operating	30	27	40
+Tiana's Bayou Adventure	Down	32	13	0
+Tomorrowland Speedway	Down	20	9	0
+Tomorrowland Transit Authority PeopleMover	Operating	11	6	15
+TRON Lightcycle / Run	Operating	64	63	65
+Under the Sea - Journey of The Little Mermaid	Operating	18	14	30
+Walt Disney World Railroad - Fantasyland	Down	14	15	0
+Walt Disney World Railroad - Main Street, U.S.A.	Down	13	14	0
