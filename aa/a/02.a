@@ -1,26 +1,26 @@
-"it's a small world"	Operating	18	2	20
-Astro Orbiter	Down	8	9	0
-Big Thunder Mountain Railroad	Down	39	33	0
-Buzz Lightyear's Space Ranger Spin	Operating	36	31	35
+"it's a small world"	Operating	27	18	30
+Astro Orbiter	Operating	8	9	5
+Big Thunder Mountain Railroad	Operating	38	33	35
+Buzz Lightyear's Space Ranger Spin	Operating	33	32	45
 Country Bear Musical Jamboree	Operating	6	6	10
-Dumbo the Flying Elephant	Down	6	8	0
-Enchanted Tales with Belle	Operating	14	14	25
-Haunted Mansion	Operating	25	18	30
-Jungle Cruise	Down	33	31	0
-Mad Tea Party	Operating	8	6	10
+Dumbo the Flying Elephant	Operating	5	8	10
+Enchanted Tales with Belle	Operating	16	13	30
+Haunted Mansion	Operating	28	18	40
+Jungle Cruise	Operating	32	30	25
+Mad Tea Party	Operating	7	7	15
 Monsters, Inc. Laugh Floor	Operating	8	7	10
-Peter Pan's Flight	Operating	44	37	55
-Pirates of the Caribbean	Operating	23	17	40
-Prince Charming Regal Carrousel	Operating	2	2	10
-Seven Dwarfs Mine Train	Down	46	49	0
+Peter Pan's Flight	Operating	49	37	65
+Pirates of the Caribbean	Operating	26	17	30
+Prince Charming Regal Carrousel	Operating	3	3	10
+Seven Dwarfs Mine Train	Operating	45	49	45
 Space Mountain	Operating	39	38	50
-The Barnstormer	Down	14	11	0
-The Magic Carpets of Aladdin	Down	4	6	0
-The Many Adventures of Winnie the Pooh	Operating	31	27	40
-Tiana's Bayou Adventure	Down	28	13	0
-Tomorrowland Speedway	Down	18	9	0
-Tomorrowland Transit Authority PeopleMover	Operating	12	6	20
-TRON Lightcycle / Run	Operating	64	63	65
-Under the Sea - Journey of The Little Mermaid	Operating	24	13	35
-Walt Disney World Railroad - Fantasyland	Down	14	15	0
-Walt Disney World Railroad - Main Street, U.S.A.	Down	12	14	0
+The Barnstormer	Operating	14	10	10
+The Magic Carpets of Aladdin	Operating	5	7	15
+The Many Adventures of Winnie the Pooh	Operating	31	27	35
+Tiana's Bayou Adventure	Operating	25	15	40
+Tomorrowland Speedway	Operating	12	10	10
+Tomorrowland Transit Authority PeopleMover	Operating	15	7	25
+TRON Lightcycle / Run	Operating	64	63	75
+Under the Sea - Journey of The Little Mermaid	Operating	28	13	35
+Walt Disney World Railroad - Fantasyland	Operating	13	15	20
+Walt Disney World Railroad - Main Street, U.S.A.	Operating	12	14	20
