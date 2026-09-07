@@ -1,33 +1,34 @@
-"it's a small world"	Down	16	9	0
-Alice in Wonderland	Down	27	27	0
+"it's a small world"	Down	12	9	0
+Adventureland Treehouse inspired by Walt Disney's Swiss Family Robinson	Closed	7	6	0
+Alice in Wonderland	Closed	27	27	0
 Astro Orbitor	Operating	25	13	35
-Autopia	Operating	19	19	45
-Big Thunder Mountain Railroad	Operating	42	35	45
-Buzz Lightyear Astro Blasters	Operating	22	25	35
-Casey Jr. Circus Train	Down	15	11	0
+Autopia	Operating	22	22	45
+Big Thunder Mountain Railroad	Operating	45	36	60
+Buzz Lightyear Astro Blasters	Operating	25	26	45
+Casey Jr. Circus Train	Operating	15	11	20
 Chip 'n' Dale's GADGETcoaster	Closed	25	25	0
-Disneyland Monorail	Operating	6	7	10
-Disneyland Railroad	Operating	5	2	10
+Disneyland Monorail	Operating	5	7	10
+Disneyland Railroad	Operating	4	2	5
 Dumbo the Flying Elephant	Operating	25	18	35
 Finding Nemo Submarine Voyage	Operating	13	8	20
 Goofy's How-to-Play Yard	Closed	1	1	0
-Haunted Mansion Holiday	Operating	68	53	85
-Indiana Jones Adventure	Operating	49	41	55
-Jungle Cruise	Operating	16	14	15
-King Arthur Carrousel	Operating	7	2	15
-Mad Tea Party	Operating	19	12	30
-Matterhorn Bobsleds	Operating	43	36	60
-Mickey & Minnie's Runaway Railway	Closed	38	33	0
-Millennium Falcon: Smugglers Run	Operating	32	20	40
+Haunted Mansion Holiday	Operating	70	54	75
+Indiana Jones Adventure	Operating	46	40	45
+Jungle Cruise	Operating	11	14	15
+King Arthur Carrousel	Operating	8	2	15
+Mad Tea Party	Operating	21	12	30
+Matterhorn Bobsleds	Operating	47	38	60
+Mickey & Minnie's Runaway Railway	Closed	35	33	0
+Millennium Falcon: Smugglers Run	Operating	30	20	30
 Mr. Toad's Wild Ride	Operating	21	17	30
-Peter Pan's Flight	Down	31	31	0
-Pinocchio's Daring Journey	Operating	12	12	20
-Pirates of the Caribbean	Operating	22	21	20
-Roger Rabbit's Car Toon Spin	Closed	35	38	0
-Snow White's Enchanted Wish	Operating	17	16	20
-Space Mountain	Operating	73	53	70
-Star Tours - The Adventures Continue	Operating	28	19	35
-Star Wars: Rise of the Resistance	Operating	50	47	65
-Storybook Land Canal Boats	Operating	15	10	25
-The Many Adventures of Winnie the Pooh	Operating	19	12	20
-Tiana's Bayou Adventure	Operating	27	26	40
+Peter Pan's Flight	Closed	31	31	0
+Pinocchio's Daring Journey	Operating	14	12	20
+Pirates of the Caribbean	Operating	26	21	40
+Roger Rabbit's Car Toon Spin	Closed	33	38	0
+Snow White's Enchanted Wish	Operating	16	16	20
+Space Mountain	Operating	71	53	70
+Star Tours - The Adventures Continue	Operating	27	19	35
+Star Wars: Rise of the Resistance	Operating	52	48	55
+Storybook Land Canal Boats	Operating	15	9	20
+The Many Adventures of Winnie the Pooh	Operating	17	12	20
+Tiana's Bayou Adventure	Operating	32	28	50
