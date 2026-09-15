@@ -1,26 +1,26 @@
-"it's a small world"	Operating	1	-180	5
-Astro Orbiter	Operating	6	9	10
-Big Thunder Mountain Railroad	Operating	20	20	20
-Buzz Lightyear's Space Ranger Spin	Operating	24	16	20
+"it's a small world"	Operating	1	162	5
+Astro Orbiter	Operating	6	9	5
+Big Thunder Mountain Railroad	Operating	24	20	25
+Buzz Lightyear's Space Ranger Spin	Operating	23	16	20
 Country Bear Musical Jamboree	Operating	6	6	10
-Dumbo the Flying Elephant	Operating	9	6	20
-Enchanted Tales with Belle	Operating	10	15	10
-Haunted Mansion	Operating	13	10	20
-Jungle Cruise	Operating	25	20	30
+Dumbo the Flying Elephant	Operating	9	6	15
+Enchanted Tales with Belle	Operating	10	14	10
+Haunted Mansion	Operating	16	10	25
+Jungle Cruise	Operating	24	20	25
 Mad Tea Party	Operating	2	2	5
 Monsters, Inc. Laugh Floor	Operating	7	8	10
-Peter Pan's Flight	Operating	28	27	30
+Peter Pan's Flight	Operating	30	27	25
 Pirates of the Caribbean	Operating	18	9	20
 Prince Charming Regal Carrousel	Operating	2	2	5
-Seven Dwarfs Mine Train	Operating	31	31	30
+Seven Dwarfs Mine Train	Operating	32	31	40
 Space Mountain	Operating	9	12	10
-The Barnstormer	Operating	4	2	10
+The Barnstormer	Operating	5	3	15
 The Magic Carpets of Aladdin	Operating	3	3	5
-The Many Adventures of Winnie the Pooh	Operating	27	22	30
-Tiana's Bayou Adventure	Operating	22	2	35
-Tomorrowland Speedway	Operating	2	4	5
-Tomorrowland Transit Authority PeopleMover	Operating	4	2	5
-TRON Lightcycle / Run	Operating	24	6	45
-Under the Sea - Journey of The Little Mermaid	Down	2	2	0
-Walt Disney World Railroad - Fantasyland	Down	11	11	0
+The Many Adventures of Winnie the Pooh	Operating	28	22	30
+Tiana's Bayou Adventure	Operating	22	2	20
+Tomorrowland Speedway	Operating	4	4	5
+Tomorrowland Transit Authority PeopleMover	Operating	4	2	10
+TRON Lightcycle / Run	Operating	21	8	30
+Under the Sea - Journey of The Little Mermaid	Operating	3	2	10
+Walt Disney World Railroad - Fantasyland	Down	12	11	0
 Walt Disney World Railroad - Main Street, U.S.A.	Down	11	9	0
