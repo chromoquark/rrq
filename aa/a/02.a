@@ -1,25 +1,25 @@
-"it's a small world"	Operating	1	-3775	5
-Astro Orbiter	Operating	5	10	5
-Big Thunder Mountain Railroad	Operating	10	11	15
-Buzz Lightyear's Space Ranger Spin	Operating	24	28	40
-Dumbo the Flying Elephant	Operating	17	22	25
-Enchanted Tales with Belle	Closed	22	25	0
-Haunted Mansion	Operating	14	15	13
-Jungle Cruise	Operating	19	20	30
-Mad Tea Party	Operating	3	4	5
+"it's a small world"	Operating	1	695	5
+Astro Orbiter	Operating	5	10	10
+Big Thunder Mountain Railroad	Operating	12	11	25
+Buzz Lightyear's Space Ranger Spin	Operating	32	33	40
+Dumbo the Flying Elephant	Operating	22	28	30
+Enchanted Tales with Belle	Closed	23	25	0
+Haunted Mansion	Operating	12	10	10
+Jungle Cruise	Operating	25	21	35
+Mad Tea Party	Operating	3	4	10
 Monsters, Inc. Laugh Floor	Operating	4	7	5
-Peter Pan's Flight	Operating	33	36	40
+Peter Pan's Flight	Operating	38	37	45
 Pirates of the Caribbean	Operating	6	8	5
 Prince Charming Regal Carrousel	Operating	2	2	5
-Seven Dwarfs Mine Train	Operating	32	32	45
-Space Mountain	Operating	13	13	20
-The Barnstormer	Operating	1	2	5
-The Magic Carpets of Aladdin	Operating	3	3	10
-The Many Adventures of Winnie the Pooh	Operating	29	33	30
-Tiana's Bayou Adventure	Operating	1	1	5
-Tomorrowland Speedway	Operating	5	6	10
-Tomorrowland Transit Authority PeopleMover	Operating	4	10	5
-TRON Lightcycle / Run	Operating	33	3	60
+Seven Dwarfs Mine Train	Operating	40	32	55
+Space Mountain	Operating	18	22	25
+The Barnstormer	Operating	2	2	5
+The Magic Carpets of Aladdin	Operating	5	6	15
+The Many Adventures of Winnie the Pooh	Down	31	33	0
+Tiana's Bayou Adventure	Operating	6	1	15
+Tomorrowland Speedway	Operating	8	9	15
+Tomorrowland Transit Authority PeopleMover	Operating	2	2	5
+TRON Lightcycle / Run	Operating	337	2175	60
 Under the Sea - Journey of The Little Mermaid	Operating	2	2	5
-Walt Disney World Railroad - Fantasyland	Operating	11	11	20
-Walt Disney World Railroad - Main Street, U.S.A.	Operating	12	9	20
+Walt Disney World Railroad - Fantasyland	Operating	12	11	20
+Walt Disney World Railroad - Main Street, U.S.A.	Operating	13	9	20
