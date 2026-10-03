@@ -1,32 +1,32 @@
 "it's a small world"	Operating	2	3	5
-Alice in Wonderland	Operating	11	13	10
-Astro Orbitor	Operating	7	9	5
-Autopia	Operating	7	12	10
-Big Thunder Mountain Railroad	Operating	16	20	10
-Buzz Lightyear Astro Blasters	Operating	8	9	10
+Alice in Wonderland	Operating	10	13	10
+Astro Orbitor	Operating	6	9	5
+Autopia	Operating	7	11	10
+Big Thunder Mountain Railroad	Operating	15	20	20
+Buzz Lightyear Astro Blasters	Down	8	9	0
 Casey Jr. Circus Train	Operating	2	4	5
-Chip 'n' Dale's GADGETcoaster	Operating	6	9	5
+Chip 'n' Dale's GADGETcoaster	Operating	7	9	5
 Disneyland Monorail	Down	1	2	0
 Disneyland Railroad	Operating	1	1	5
 Dumbo the Flying Elephant	Operating	3	8	5
-Finding Nemo Submarine Voyage	Operating	5	5	5
+Finding Nemo Submarine Voyage	Operating	4	5	5
 Haunted Mansion Holiday	Operating	29	32	35
 Indiana Jones Adventure	Refurbishment	--	47	--
 Jungle Cruise	Operating	8	8	10
-King Arthur Carrousel	Down	2	2	0
+King Arthur Carrousel	Operating	2	2	5
 Mad Tea Party	Refurbishment	--	7	--
-Matterhorn Bobsleds	Operating	26	26	25
-Mickey & Minnie's Runaway Railway	Operating	24	26	25
-Millennium Falcon: Smugglers Run	Operating	14	19	15
-Mr. Toad's Wild Ride	Down	7	8	0
+Matterhorn Bobsleds	Operating	25	25	20
+Mickey & Minnie's Runaway Railway	Down	22	25	0
+Millennium Falcon: Smugglers Run	Operating	12	18	10
+Mr. Toad's Wild Ride	Operating	7	8	10
 Peter Pan's Flight	Operating	19	25	20
 Pinocchio's Daring Journey	Operating	3	5	5
-Pirates of the Caribbean	Operating	16	16	15
-Roger Rabbit's Car Toon Spin	Operating	36	32	35
+Pirates of the Caribbean	Operating	15	16	15
+Roger Rabbit's Car Toon Spin	Operating	35	32	35
 Snow White's Enchanted Wish	Operating	7	7	10
-Space Mountain	Operating	44	38	40
-Star Tours - The Adventures Continue	Operating	15	15	10
-Star Wars: Rise of the Resistance	Operating	40	45	45
+Space Mountain	Operating	42	38	40
+Star Tours - The Adventures Continue	Operating	12	12	15
+Star Wars: Rise of the Resistance	Operating	38	43	45
 Storybook Land Canal Boats	Operating	4	4	5
 The Many Adventures of Winnie the Pooh	Operating	2	2	5
-Tiana's Bayou Adventure	Operating	62	41	50
+Tiana's Bayou Adventure	Operating	55	42	50
