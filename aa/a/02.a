@@ -1,26 +1,26 @@
-"it's a small world"	Operating	5	15	10
-Astro Orbiter	Operating	24	16	35
-Big Thunder Mountain Railroad	Operating	38	28	45
-Buzz Lightyear's Space Ranger Spin	Operating	40	37	45
+"it's a small world"	Operating	13	19	15
+Astro Orbiter	Operating	26	16	35
+Big Thunder Mountain Railroad	Operating	36	30	40
+Buzz Lightyear's Space Ranger Spin	Operating	39	38	45
 Country Bear Musical Jamboree	Operating	6	6	10
-Dumbo the Flying Elephant	Operating	13	13	35
-Enchanted Tales with Belle	Operating	25	22	25
+Dumbo the Flying Elephant	Operating	13	13	20
+Enchanted Tales with Belle	Closed	26	22	0
 Haunted Mansion	Operating	28	26	40
-Jungle Cruise	Operating	31	33	45
-Mad Tea Party	Operating	13	10	20
+Jungle Cruise	Operating	30	33	35
+Mad Tea Party	Operating	12	10	10
 Monsters, Inc. Laugh Floor	Operating	7	7	10
-Peter Pan's Flight	Operating	39	37	40
-Pirates of the Caribbean	Operating	14	21	25
+Peter Pan's Flight	Operating	37	37	40
+Pirates of the Caribbean	Operating	18	21	35
 Prince Charming Regal Carrousel	Operating	11	8	15
-Seven Dwarfs Mine Train	Operating	50	44	60
-Space Mountain	Operating	33	34	30
-The Barnstormer	Operating	19	10	30
-The Magic Carpets of Aladdin	Operating	11	9	20
-The Many Adventures of Winnie the Pooh	Operating	36	29	45
-Tiana's Bayou Adventure	Operating	29	28	40
-Tomorrowland Speedway	Operating	14	7	15
-Tomorrowland Transit Authority PeopleMover	Operating	13	6	20
-TRON Lightcycle / Run	Operating	82	59	110
-Under the Sea - Journey of The Little Mermaid	Operating	23	21	25
+Seven Dwarfs Mine Train	Operating	49	44	60
+Space Mountain	Operating	31	34	30
+The Barnstormer	Operating	20	11	30
+The Magic Carpets of Aladdin	Operating	12	10	20
+The Many Adventures of Winnie the Pooh	Operating	32	29	30
+Tiana's Bayou Adventure	Operating	28	28	40
+Tomorrowland Speedway	Operating	11	7	10
+Tomorrowland Transit Authority PeopleMover	Down	12	6	0
+TRON Lightcycle / Run	Operating	82	58	130
+Under the Sea - Journey of The Little Mermaid	Operating	21	21	25
 Walt Disney World Railroad - Fantasyland	Refurbishment	--	1	--
 Walt Disney World Railroad - Main Street, U.S.A.	Refurbishment	--	1	--
