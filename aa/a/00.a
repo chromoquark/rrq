@@ -1,31 +1,31 @@
-"it's a small world"	Operating	20	18	25
-Alice in Wonderland	Operating	29	32	25
-Astro Orbitor	Operating	32	26	30
-Autopia	Operating	34	35	50
-Big Thunder Mountain Railroad	Operating	39	45	40
-Buzz Lightyear Astro Blasters	Operating	33	34	45
-Casey Jr. Circus Train	Operating	13	12	10
-Chip 'n' Dale's GADGETcoaster	Operating	32	34	45
+"it's a small world"	Operating	20	18	10
+Alice in Wonderland	Operating	28	30	35
+Astro Orbitor	Operating	29	23	30
+Autopia	Operating	38	35	35
+Big Thunder Mountain Railroad	Operating	40	45	40
+Buzz Lightyear Astro Blasters	Operating	35	34	35
+Casey Jr. Circus Train	Operating	11	10	10
+Chip 'n' Dale's GADGETcoaster	Operating	34	35	45
 Disneyland Monorail	Operating	2	2	5
 Disneyland Railroad	Operating	1	1	5
-Dumbo the Flying Elephant	Operating	38	35	40
-Finding Nemo Submarine Voyage	Operating	22	20	30
-Haunted Mansion Holiday	Operating	65	72	60
-Jungle Cruise	Operating	23	20	25
-King Arthur Carrousel	Operating	10	9	10
+Dumbo the Flying Elephant	Operating	39	35	40
+Finding Nemo Submarine Voyage	Operating	25	22	35
+Haunted Mansion Holiday	Operating	60	61	60
+Jungle Cruise	Operating	25	20	40
+King Arthur Carrousel	Operating	9	9	10
 Mad Tea Party	Refurbishment	--	8	--
-Matterhorn Bobsleds	Down	48	53	0
-Mickey & Minnie's Runaway Railway	Operating	35	37	30
-Millennium Falcon: Smugglers Run	Operating	33	36	50
+Matterhorn Bobsleds	Operating	22	27	30
+Mickey & Minnie's Runaway Railway	Operating	34	37	45
+Millennium Falcon: Smugglers Run	Operating	34	36	25
 Mr. Toad's Wild Ride	Operating	22	26	25
-Peter Pan's Flight	Down	39	33	0
-Pinocchio's Daring Journey	Down	12	14	0
+Peter Pan's Flight	Operating	36	33	35
+Pinocchio's Daring Journey	Down	13	14	0
 Pirates of the Caribbean	Operating	42	39	45
-Roger Rabbit's Car Toon Spin	Operating	40	55	60
+Roger Rabbit's Car Toon Spin	Operating	47	54	45
 Snow White's Enchanted Wish	Operating	20	23	20
-Space Mountain	Operating	61	64	70
-Star Tours - The Adventures Continue	Operating	33	27	45
-Star Wars: Rise of the Resistance	Operating	65	67	75
-Storybook Land Canal Boats	Operating	14	14	15
-The Many Adventures of Winnie the Pooh	Operating	17	14	25
-Tiana's Bayou Adventure	Operating	36	37	55
+Space Mountain	Operating	64	76	70
+Star Tours - The Adventures Continue	Operating	38	30	45
+Star Wars: Rise of the Resistance	Operating	72	67	95
+Storybook Land Canal Boats	Operating	13	14	15
+The Many Adventures of Winnie the Pooh	Operating	20	17	25
+Tiana's Bayou Adventure	Operating	45	50	60
