@@ -1,25 +1,26 @@
-"it's a small world"	Operating	1	1	5
-Astro Orbiter	Operating	5	10	5
-Big Thunder Mountain Railroad	Operating	9	36	5
-Buzz Lightyear's Space Ranger Spin	Operating	8	35	10
+"it's a small world"	Operating	2	2	5
+Astro Orbiter	Operating	4	10	5
+Big Thunder Mountain Railroad	Operating	8	11	5
+Buzz Lightyear's Space Ranger Spin	Operating	11	40	15
 Country Bear Musical Jamboree	Closed	1	1	0
-Dumbo the Flying Elephant	Operating	3	6	5
-Enchanted Tales with Belle	Closed	13	25	0
-Jungle Cruise	Operating	10	47	5
-Mad Tea Party	Operating	1	4	5
-Monsters, Inc. Laugh Floor	Closed	2	14	0
-Peter Pan's Flight	Operating	27	66	25
-Pirates of the Caribbean	Operating	4	29	5
+Dumbo the Flying Elephant	Operating	5	12	10
+Enchanted Tales with Belle	Closed	15	25	0
+Haunted Mansion	Operating	11	33	13
+Jungle Cruise	Operating	9	18	5
+Mad Tea Party	Operating	2	4	5
+Monsters, Inc. Laugh Floor	Closed	3	14	0
+Peter Pan's Flight	Operating	29	67	30
+Pirates of the Caribbean	Operating	4	9	5
 Prince Charming Regal Carrousel	Operating	2	8	5
-Seven Dwarfs Mine Train	Operating	62	122	55
-Space Mountain	Down	17	50	0
-The Barnstormer	Operating	4	21	5
-The Magic Carpets of Aladdin	Operating	1	15	5
-The Many Adventures of Winnie the Pooh	Operating	18	39	30
+Seven Dwarfs Mine Train	Operating	56	123	40
+Space Mountain	Down	22	50	0
+The Barnstormer	Operating	5	27	10
+The Magic Carpets of Aladdin	Operating	2	3	5
+The Many Adventures of Winnie the Pooh	Operating	23	40	30
 Tiana's Bayou Adventure	Operating	1	1	10
-Tomorrowland Speedway	Operating	4	5	15
-Tomorrowland Transit Authority PeopleMover	Operating	1	10	5
-TRON Lightcycle / Run	Operating	120	1521	15
-Under the Sea - Journey of The Little Mermaid	Operating	1	1	5
+Tomorrowland Speedway	Operating	10	20	15
+Tomorrowland Transit Authority PeopleMover	Operating	2	10	5
+TRON Lightcycle / Run	Operating	116	2087	55
+Under the Sea - Journey of The Little Mermaid	Operating	2	1	5
 Walt Disney World Railroad - Fantasyland	Refurbishment	--	1	--
 Walt Disney World Railroad - Main Street, U.S.A.	Refurbishment	--	1	--
