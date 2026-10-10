@@ -1,33 +1,30 @@
-"it's a small world"	Closed	1	13	0
-Adventureland Treehouse inspired by Walt Disney's Swiss Family Robinson	Closed	3	7	0
-Alice in Wonderland	Closed	5	27	0
-Astro Orbitor	Closed	1	20	0
-Autopia	Closed	1	19	0
-Big Thunder Mountain Railroad	Closed	6	38	0
-Buzz Lightyear Astro Blasters	Closed	1	24	0
-Casey Jr. Circus Train	Closed	1	11	0
-Chip 'n' Dale's GADGETcoaster	Closed	3	30	0
-Disneyland Monorail	Closed	2	4	0
-Disneyland Railroad	Closed	10	14	0
-Dumbo the Flying Elephant	Closed	1	23	0
-Finding Nemo Submarine Voyage	Closed	1	21	0
-Goofy's How-to-Play Yard	Closed	1	1	0
-Haunted Mansion Holiday	Closed	13	51	0
-Jungle Cruise	Closed	1	20	0
-King Arthur Carrousel	Closed	1	6	0
+"it's a small world"	Operating	1	13	5
+Alice in Wonderland	Operating	8	27	15
+Astro Orbitor	Operating	1	20	5
+Autopia	Operating	1	19	5
+Big Thunder Mountain Railroad	Operating	9	38	15
+Buzz Lightyear Astro Blasters	Operating	1	24	5
+Casey Jr. Circus Train	Operating	1	11	5
+Chip 'n' Dale's GADGETcoaster	Operating	3	30	5
+Disneyland Monorail	Operating	2	4	5
+Disneyland Railroad	Operating	10	14	5
+Dumbo the Flying Elephant	Operating	4	23	15
+Finding Nemo Submarine Voyage	Operating	1	21	5
+Haunted Mansion Holiday	Down	17	51	0
+Jungle Cruise	Operating	3	20	5
 Mad Tea Party	Refurbishment	--	8	--
-Matterhorn Bobsleds	Closed	7	48	0
-Mickey & Minnie's Runaway Railway	Closed	5	38	0
-Millennium Falcon: Smugglers Run	Closed	58	33	0
-Mr. Toad's Wild Ride	Closed	1	17	0
-Peter Pan's Flight	Closed	25	33	0
-Pinocchio's Daring Journey	Closed	1	12	0
-Pirates of the Caribbean	Closed	1	23	0
-Roger Rabbit's Car Toon Spin	Closed	3	34	0
-Snow White's Enchanted Wish	Closed	1	19	0
-Space Mountain	Closed	13	57	0
-Star Tours - The Adventures Continue	Closed	1	30	0
-Star Wars: Rise of the Resistance	Closed	55	64	0
-Storybook Land Canal Boats	Closed	3	17	0
-The Many Adventures of Winnie the Pooh	Closed	1	8	0
-Tiana's Bayou Adventure	Closed	3	48	0
+Matterhorn Bobsleds	Operating	11	48	5
+Mickey & Minnie's Runaway Railway	Operating	8	38	10
+Millennium Falcon: Smugglers Run	Operating	42	33	20
+Mr. Toad's Wild Ride	Operating	2	17	5
+Peter Pan's Flight	Operating	27	33	35
+Pinocchio's Daring Journey	Operating	1	12	5
+Pirates of the Caribbean	Down	1	23	0
+Roger Rabbit's Car Toon Spin	Operating	5	34	5
+Snow White's Enchanted Wish	Operating	2	19	10
+Space Mountain	Operating	18	57	40
+Star Tours - The Adventures Continue	Operating	4	30	5
+Star Wars: Rise of the Resistance	Down	55	64	0
+Storybook Land Canal Boats	Operating	5	17	5
+The Many Adventures of Winnie the Pooh	Operating	1	8	5
+Tiana's Bayou Adventure	Operating	2	48	5
