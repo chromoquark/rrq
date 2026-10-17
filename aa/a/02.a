@@ -1,26 +1,26 @@
-"it's a small world"	Operating	2	2	5
-Astro Orbiter	Operating	4	26	5
-Big Thunder Mountain Railroad	Closed	4	36	0
-Buzz Lightyear's Space Ranger Spin	Operating	3	11	5
+"it's a small world"	Operating	2	1	5
+Astro Orbiter	Operating	5	10	5
+Big Thunder Mountain Railroad	Operating	9	36	5
+Buzz Lightyear's Space Ranger Spin	Operating	4	15	5
 Country Bear Musical Jamboree	Closed	1	1	0
-Dumbo the Flying Elephant	Down	2	12	0
-Enchanted Tales with Belle	Closed	12	25	0
-Haunted Mansion	Closed	6	33	0
-Jungle Cruise	Closed	3	47	0
-Mad Tea Party	Operating	1	4	5
-Monsters, Inc. Laugh Floor	Closed	1	14	0
-Peter Pan's Flight	Operating	16	35	20
-Pirates of the Caribbean	Closed	1	29	0
-Prince Charming Regal Carrousel	Operating	1	7	5
-Seven Dwarfs Mine Train	Operating	33	43	35
-Space Mountain	Down	13	50	0
-The Barnstormer	Operating	1	2	5
-The Magic Carpets of Aladdin	Closed	1	15	0
-The Many Adventures of Winnie the Pooh	Operating	12	31	10
-Tiana's Bayou Adventure	Closed	1	1	0
-Tomorrowland Speedway	Operating	7	20	5
-Tomorrowland Transit Authority PeopleMover	Down	1	8	0
-TRON Lightcycle / Run	Closed	1	1521	0
-Under the Sea - Journey of The Little Mermaid	Down	2	2	0
+Dumbo the Flying Elephant	Operating	3	12	10
+Enchanted Tales with Belle	Closed	13	25	0
+Haunted Mansion	Operating	8	33	13
+Jungle Cruise	Operating	10	47	10
+Mad Tea Party	Operating	3	18	10
+Monsters, Inc. Laugh Floor	Closed	2	14	0
+Peter Pan's Flight	Operating	18	35	20
+Pirates of the Caribbean	Operating	4	29	5
+Prince Charming Regal Carrousel	Operating	2	8	5
+Seven Dwarfs Mine Train	Operating	35	43	30
+Space Mountain	Down	17	50	0
+The Barnstormer	Operating	2	14	10
+The Magic Carpets of Aladdin	Operating	1	15	5
+The Many Adventures of Winnie the Pooh	Operating	13	31	15
+Tiana's Bayou Adventure	Down	1	1	0
+Tomorrowland Speedway	Operating	2	4	5
+Tomorrowland Transit Authority PeopleMover	Operating	1	8	5
+TRON Lightcycle / Run	Operating	120	1521	30
+Under the Sea - Journey of The Little Mermaid	Operating	2	2	5
 Walt Disney World Railroad - Fantasyland	Refurbishment	--	1	--
 Walt Disney World Railroad - Main Street, U.S.A.	Refurbishment	--	1	--
