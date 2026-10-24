@@ -1,31 +1,31 @@
 "it's a small world"	Operating	2	2	5
-Alice in Wonderland	Operating	19	24	20
-Astro Orbitor	Operating	5	6	15
-Autopia	Operating	6	9	10
-Big Thunder Mountain Railroad	Down	19	27	0
-Buzz Lightyear Astro Blasters	Operating	10	17	20
-Casey Jr. Circus Train	Operating	2	2	10
-Chip 'n' Dale's GADGETcoaster	Operating	7	12	5
+Alice in Wonderland	Operating	19	24	15
+Astro Orbitor	Operating	8	6	15
+Autopia	Operating	7	9	15
+Big Thunder Mountain Railroad	Down	20	27	0
+Buzz Lightyear Astro Blasters	Operating	16	20	25
+Casey Jr. Circus Train	Operating	4	5	10
+Chip 'n' Dale's GADGETcoaster	Operating	7	12	10
 Disneyland Monorail	Operating	2	2	5
 Disneyland Railroad	Operating	1	1	5
-Dumbo the Flying Elephant	Operating	5	7	5
+Dumbo the Flying Elephant	Operating	13	9	25
 Finding Nemo Submarine Voyage	Operating	4	5	5
-Haunted Mansion Holiday	Operating	37	55	55
-Jungle Cruise	Operating	11	15	15
+Haunted Mansion Holiday	Operating	50	72	55
+Jungle Cruise	Operating	13	15	15
 King Arthur Carrousel	Operating	2	1	5
 Mad Tea Party	Operating	2	2	5
 Matterhorn Bobsleds	Operating	18	19	20
-Mickey & Minnie's Runaway Railway	Operating	8	19	5
-Millennium Falcon: Smugglers Run	Operating	9	15	10
+Mickey & Minnie's Runaway Railway	Operating	17	20	30
+Millennium Falcon: Smugglers Run	Operating	7	11	10
 Mr. Toad's Wild Ride	Operating	3	5	5
-Peter Pan's Flight	Operating	27	27	30
+Peter Pan's Flight	Operating	28	27	30
 Pinocchio's Daring Journey	Operating	2	3	5
-Pirates of the Caribbean	Operating	15	18	30
-Roger Rabbit's Car Toon Spin	Operating	15	30	30
+Pirates of the Caribbean	Down	18	18	0
+Roger Rabbit's Car Toon Spin	Operating	23	39	30
 Snow White's Enchanted Wish	Operating	4	7	5
-Space Mountain	Operating	29	39	30
-Star Tours - The Adventures Continue	Operating	4	6	5
-Star Wars: Rise of the Resistance	Operating	51	50	40
-Storybook Land Canal Boats	Operating	7	6	5
+Space Mountain	Operating	32	38	45
+Star Tours - The Adventures Continue	Operating	5	6	5
+Star Wars: Rise of the Resistance	Operating	52	50	55
+Storybook Land Canal Boats	Operating	5	5	10
 The Many Adventures of Winnie the Pooh	Operating	2	2	5
 Tiana's Bayou Adventure	Operating	4	7	5
